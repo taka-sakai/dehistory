@@ -4,5 +4,7 @@
 # Only track these files/directories
 !.gitignore
 !LICENSE
+!docs/
 !docs/**
+!src/
 !src/**
